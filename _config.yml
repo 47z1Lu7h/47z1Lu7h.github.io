@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: Hit the sack # the website title (if blank, full name will be used instead)
-first_name:  47z!  
-middle_name: 󱙧  
-last_name:  Lu7h  
+first_name: 47z!
+middle_name: 󱙧
+last_name: Lu7h
 email: 47z1lu7h@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.

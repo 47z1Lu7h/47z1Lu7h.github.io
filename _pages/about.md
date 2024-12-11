@@ -6,11 +6,10 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 47z1Right.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>The way is not in the sky; the way is in the heart.</p>
-    <p>Let the breath lead the way.</p>
+    <p>I am not my thoughts, emotions, sense perceptions, and experiences. I am not the content of my life. I am Life. I am the space in which all things happen. I am consciousness. I am the Now. I Am</p>
 
 # news: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
