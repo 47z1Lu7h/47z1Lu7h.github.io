@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: I will go anywhere as long as it is forward  # the website title (if blank, full name will be used instead)
-first_name: 47z1
-middle_name: 󱙧 
+first_name: 47z!
+middle_name: 󱙧  
 last_name: Lu7h
 email: 47z1lu7h@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -132,7 +132,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: 47z1 󱙧  h4Ck # blog_name will be displayed in your blog page
+blog_name: 47z! 󱙧   H4Ck # blog_name will be displayed in your blog page
 blog_description: A cybersecurity enthusiast
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
