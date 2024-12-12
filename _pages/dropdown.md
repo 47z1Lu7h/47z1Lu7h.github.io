@@ -16,4 +16,13 @@ children:
   - title: divider
   - title: Blog
     permalink: /blog/
+  - title: divider
+  - title: news
+    permalink: /news/
+  - title: divider
+  - title: profiles
+    permalink: /people/
+  - title: divider
+  - title: yepa
+    permalink: /about/
 ---
