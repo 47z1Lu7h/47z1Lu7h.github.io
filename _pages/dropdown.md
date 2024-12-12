@@ -12,11 +12,8 @@ children:
     permalink: /publications/
   - title: divider
   - title: Projects
-  - title: divider
     permalink: /projects/
   - title: divider
   - title: Blog
     permalink: /blog/
-  - title: divider
-  - title: divider
 ---
