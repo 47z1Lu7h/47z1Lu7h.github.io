@@ -14,9 +14,9 @@ children:
   - title: Blog
     permalink: /blog/
   - title: divider
-  - title: news
+  - title: News
     permalink: /news/
   - title: divider
-  - title: yepa
-    permalink: /about/
+  - title: Peña
+    permalink: /people/
 ---
