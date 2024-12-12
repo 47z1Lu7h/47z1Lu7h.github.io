@@ -19,4 +19,10 @@ children:
   - title: divider
   - title: Peña
     permalink: /people/
+  - title: divider
+  - title: about
+    permalink: /about/
+  - title: divider
+  - title: repos
+    permalink: /repositories/
 ---
