@@ -1,6 +1,6 @@
 ---
-layout: distill
-title: about
+layout: page
+title: abouth
 permalink: /about/
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -28,8 +28,8 @@ _styles: >
     margin-bottom: 12px;
   }
   .fake-img p {
-    font-family: iosevkaTermSlab;
-    color: white;
+    font-family: IosevkaTermSlab;
+    color: greenm;
     text-align: left;
     margin: 12px 0;
     text-align: center;
