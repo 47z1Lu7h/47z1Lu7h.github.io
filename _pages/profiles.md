@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /about/
+permalink: /people/
 title: about
 description: members of the lab or group
 nav: true

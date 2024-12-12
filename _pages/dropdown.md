@@ -5,9 +5,6 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: about
-    permalink: /about/
-  - title: divider
   - title: Publications
     permalink: /publications/
   - title: divider
@@ -19,9 +16,6 @@ children:
   - title: divider
   - title: news
     permalink: /news/
-  - title: divider
-  - title: profiles
-    permalink: /people/
   - title: divider
   - title: yepa
     permalink: /about/
