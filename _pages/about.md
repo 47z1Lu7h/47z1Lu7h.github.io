@@ -18,7 +18,7 @@ categories: about
 social: true # includes social icons at the bottom of the page
 related_posts: true
 toc:
-  sidebar: left
+  sidebar: right
 
 _styles: >
   .fake-img {
