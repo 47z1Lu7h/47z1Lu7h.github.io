@@ -19,6 +19,7 @@ social: true # includes social icons at the bottom of the page
 related_posts: true
 toc:
   sidebar: left
+
 _styles: >
   .fake-img {
     background: #bbb;
@@ -27,8 +28,8 @@ _styles: >
     margin-bottom: 12px;
   }
   .fake-img p {
-    font-family: IosevkaTermSlab;
-    color: greenm;
+    font-family: Iosevka;
+    color: green;
     text-align: left;
     margin: 12px 0;
     text-align: center;
