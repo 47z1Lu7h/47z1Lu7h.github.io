@@ -16,8 +16,4 @@ profiles:
     more_info: >
       <p>Don't raise your voice, improve your argument. </p>
       <p>Change your thoughts and you change your world. </p>
-
-social: true # includes social icons at the bottom of the page
-toc:
-  sidebar: right
 ---

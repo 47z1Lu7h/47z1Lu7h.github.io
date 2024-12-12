@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: 
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>I am not my thoughts, emotions, sense perceptions, and experiences. I am not the content of my life. I am Life. I am the space in which all things happen. I am consciousness. I am the Now. I Am</p>
 
-# news: true # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
