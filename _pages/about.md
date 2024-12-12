@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: distill
 title: about
 permalink: /about/
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
@@ -13,16 +13,52 @@ profile:
 
 # news: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
+tags: formatting toc sidebar conspi hackthebox
+categories: about
 social: true # includes social icons at the bottom of the page
-giscus_comments: true
 related_posts: true
 toc:
   sidebar: left
-  beginning: true
+
+_styles: >
+  .fake-img {
+    background: #bbb;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 12px;
+  }
+  .fake-img p {
+    font-family: iosevkaTermSlab;
+    color: white;
+    text-align: left;
+    margin: 12px 0;
+    text-align: center;
+    font-size: 16px;
+  }
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About me :)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Welcome to a space where curiosity knows no bounds! This blog is a reflection of my multifaceted journey through the digital and the metaphysical. At its core, you'll find in-depth explorations of pentesting and ethical hacking, delving into the art and science of uncovering vulnerabilities in an ever-evolving digital world. But there's more here than just tech.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I’m equally passionate about exploring the mysteries of existence, diving into spirituality, and examining the unseen forces that shape our reality. From meditative insights to thought-provoking discussions on conspiracy theories, I aim to spark curiosity and encourage critical thinking in all aspects of life.
+
+Join me as I navigate the intersections of technology, personal growth, and the uncharted territories of the mind and beyond. Together, we’ll question, learn, and discover what lies beneath the surface—both online and within ourselves.
+
+
+## About y family :)
+
+eeee 
+
+Welcome to a space where curiosity knows no bounds! This blog is a reflection of my multifaceted journey through the digital and the metaphysical. At its core, you'll find in-depth explorations of pentesting and ethical hacking, delving into the art and science of uncovering vulnerabilities in an ever-evolving digital world. But there's more here than just tech.
+
+### My family is amazing
+
+Join me as I navigate the intersections of technology, personal growth, and the uncharted territories of the mind and beyond. Together, we’ll question, learn, and discover what lies beneath the surface—both online and within ourselves.
+
+## About others :)
+
+Join me as I navigate the intersections of technology, personal growth, and the uncharted territories of the mind and beyond. Together, we’ll question, learn, and discover what lies beneath the surface—both online and within ourselves.
+
+eeee
+
