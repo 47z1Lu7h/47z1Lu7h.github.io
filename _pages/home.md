@@ -1,7 +1,7 @@
 ---
 layout: about
 title: home
-permalink: /teaching/
+permalink: /
 subtitle:
 
 profile:
