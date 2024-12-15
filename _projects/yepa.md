@@ -6,6 +6,8 @@ img: assets/img/12.jpg
 importance: 1
 category: windows
 related_publications: false
+toc:
+  sidebar: left
 ---
 
 Every project has a beautiful feature showcase page.
