@@ -12,7 +12,7 @@ profile:
 social: true # includes social icons at the bottom of the page
 ---
 
-## About me :)
+## yeale :)
 
 Welcome to my digital sanctuary, a space where the boundaries of curiosity, technology, and philosophy intertwine. This blog is a reflection of the many layers of my journey—part technical exploration, part personal odyssey, and entirely authentic.
 
