@@ -8,7 +8,7 @@ middle_name:
 last_name:
 email: 47z1lu7h@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for...
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Love is life. And if you miss love, you miss life.
 keywords: jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
@@ -192,7 +192,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /:collection/:title/
   pentest:
     defaults:
@@ -200,16 +200,16 @@ collections:
     output: true
     permalink: /:collection/:title/
   projects:
-    output: false
+    output: true
     permalink: /:collection/:title/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -310,7 +310,7 @@ jekyll-archives:
     category: "/blog/category/:name/"
 
 display_tags: ["pentest", "spirituality", "consp", "images", "links", "hackthebox", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services", "sample-posts", "work", "fun"] # these categories will be displayed on the front page of your blog
+display_categories: ["external-services", "sample-posts", "work"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
