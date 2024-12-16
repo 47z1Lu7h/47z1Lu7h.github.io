@@ -1,7 +1,7 @@
 ---
 layout: about
 title: yepa
-permalink: /about/
+permalink:
 description: About me :)
 profile:
   align: right
@@ -11,8 +11,8 @@ profile:
     <p>I am the Now. I Am</p>
 nav: true
 nav_order: 6
-tags: formatting conspi hackthebox
-social: true # includes social icons at the bottom of the page
+tags:
+social: true
 ---
 
 ## About me :)
