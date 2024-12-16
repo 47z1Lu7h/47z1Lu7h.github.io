@@ -1,7 +1,7 @@
 ---
 layout: about
-title: yepa
-permalink:
+title: about
+permalink: /teaching/
 description: About me :)
 profile:
   align: right
