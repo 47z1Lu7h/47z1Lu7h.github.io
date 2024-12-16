@@ -16,8 +16,8 @@ profiles:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-tags: formatting conspi hackthebox
-categories: about
+tags:
+categories:
 social: true # includes social icons at the bottom of the page
 related_posts: true
 ---
