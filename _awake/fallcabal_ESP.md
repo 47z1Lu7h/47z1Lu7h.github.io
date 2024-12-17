@@ -12,8 +12,8 @@ category: "dark side"
         {% include figure.liquid loading="eager" path="assets/img/fallCabal/fallCabal-1.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
- 
- 
+
+
 This documentary video was made by researcher and author Janet Ossebaard from the Netherlands, with the aid of countless 'Anons' across the world:
 
 It contains thousands of hours of research. I urge you to accept nothing as the truth. Please do your own research and double-check everything I present to you. That is the only way to truly wake up and become an independent thinker
@@ -30,16 +30,7 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 <a href="https://www.fallcabal.com"> fallcabal.com </a>
 <a href="https://t.me/Fall_of_the_Cabal"> Telegram fallcabal</a>
 
-### Part 1 The End of the World as we Know it
-
-<div class="container">
-    <div class="container-fluid">
-        {% include video.liquid path="assets/video/ESP/part1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-    </div>
-</div>
-<div class="caption">
-    
-</div>
+# Glosary
 
 - Part 1 The End of the World as we Know it
 - Part 2 Down the Rabbit Hole
@@ -51,3 +42,12 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 - Part 8 Beyond Kings & Queens
 - Part 9 The Dawn of a New World
 - Part 10 The Return of the King
+
+### Part 1 The End of the World as we Know it
+
+<div class="container-xl">
+    {% include video.liquid path="assets/video/ENG/part1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+</div>
+<div class="caption">
+    In union there is strength.
+</div>
