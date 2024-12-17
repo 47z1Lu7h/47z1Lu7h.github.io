@@ -5,7 +5,7 @@ permalink: /awake/
 description: A growing collection of your cool awake.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [light side, dark side]
 horizontal: true
 ---
 
