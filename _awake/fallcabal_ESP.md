@@ -30,8 +30,8 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 
 ### Part 1 The End of the World as we Know it
 
-<div class="container">
-    <div class="container-lg mt-2 mt-md-0">
+<div class="row">
+    <div class="col-lg mt-2 mt-md-0">
         {% include video.liquid path="assets/video/ESP/part1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
 </div>
