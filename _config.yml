@@ -195,8 +195,6 @@ collections:
     output: true
     permalink: /:collection/:title/
   pentest:
-    defaults:
-      layout: post
     output: true
     permalink: /:collection/:title/
   awake:
