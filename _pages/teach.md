@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /teaching/
+permalink: /teach/
 description: About me :)
 profile:
   align: right
