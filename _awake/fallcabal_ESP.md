@@ -13,7 +13,6 @@ category: "dark side"
     </div>
 </div>
 
-
 This documentary video was made by researcher and author Janet Ossebaard from the Netherlands, with the aid of countless 'Anons' across the world:
 
 It contains thousands of hours of research. I urge you to accept nothing as the truth. Please do your own research and double-check everything I present to you. That is the only way to truly wake up and become an independent thinker
