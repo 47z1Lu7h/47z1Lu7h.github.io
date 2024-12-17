@@ -8,8 +8,8 @@ children:
   - title: Publications
     permalink: /publications/
   - title: divider
-  - title: Projects
-    permalink: /projects/
+  - title: awake
+    permalink: /awake/
   - title: divider
   - title: Blog
     permalink: /blog/

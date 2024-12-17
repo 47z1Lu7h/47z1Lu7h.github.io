@@ -10,7 +10,6 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>I am not my thoughts, emotions, sense perceptions.</p>
-    <p>I am not the content of my life. I am Life.</p> 
     <p>I am consciousness. I am the Now. I Am</p>
 related_posts: true
 news: false
