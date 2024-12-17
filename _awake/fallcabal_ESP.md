@@ -31,21 +31,39 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 
 # Glosary
 
-- Part 1 The End of the World as we Know it
-- Part 2 Down the Rabbit Hole
-- Part 3 The Alien Invasion
-- Part 4 Childlovers Everywhere
-- Part 5 Children, Art & Pizza
-- Part 6 Major Media Manipulation
-- Part 7 Witches and Warlocks
-- Part 8 Beyond Kings & Queens
-- Part 9 The Dawn of a New World
-- Part 10 The Return of the King
+- Part 1 - The End of the World as we Know it
+- Part 2 - Down the Rabbit Hole
+- Part 3 - The Alien Invasion
+- Part 4 - Childlovers Everywhere
+- Part 5 - Children, Art & Pizza
+- Part 6 - Major Media Manipulation
+- Part 7 - Witches and Warlocks
+- Part 8 - Beyond Kings & Queens
+- Part 9 - The Dawn of a New World
+- Part 10 - The Return of the King
 
-### Part 1 The End of the World as we Know it
+### Part 1 - The End of the World as we Know it
 
 <div class="container-xl">
     {% include video.liquid path="assets/video/ENG/part1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+</div>
+<div class="caption">
+    In union there is strength.
+</div>
+
+### Part 2 - Down the Rabbit Hole
+
+<div class="container-xl">
+    {% include video.liquid path="assets/video/ENG/part2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+</div>
+<div class="caption">
+    In union there is strength.
+</div>
+
+### Part
+
+<div class="container-xl">
+    {% include video.liquid path="assets/video/ENG/.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
     In union there is strength.
