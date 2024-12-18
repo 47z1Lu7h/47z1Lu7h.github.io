@@ -6,7 +6,7 @@ img: assets/img/fallCabal/fallCabal-1.png
 importance: 1
 category: "dark side"
 toc:
-  sidebar: left
+  beginning: true
 ---
 
 <div class="row">
