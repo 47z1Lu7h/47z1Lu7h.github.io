@@ -27,7 +27,7 @@ Este documental fue hecho por la investigadora y autora Janet Ossebaard, de los 
 <a href="https://www.fallcabal.com"> fallcabal.com </a>
 <a href="https://t.me/Fall_of_the_Cabal"> Telegram fallcabal</a>
 
-# Glosario:
+# Glosario
 
 - Part 1 - The End of the World as we Know it
 - Part 2 - Down the Rabbit Hole
@@ -42,8 +42,9 @@ Este documental fue hecho por la investigadora y autora Janet Ossebaard, de los 
 
 ## Documental completo
 
-<div class="container-xl"
-    <iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/$/embed/@Ocinuyos:8/LA-CAÍDA-DEL-CABAL:6?r=kE8vr2PoQ63pA2Z1ok7Xy2fRvMQJHfEX" allowfullscreen></iframe>
+<div class="container-xl">
+    <iframe id="iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/$/embed/@Ocinuyos:8/LA-CAÍDA-DEL-CABAL:6?r=kE8vr2PoQ63pA2Z1ok7Xy2fRvMQJHfEX" allowfullscreen>
+    </iframe> </iframe>
 </div>
 <div class="caption">
     This is the caption
