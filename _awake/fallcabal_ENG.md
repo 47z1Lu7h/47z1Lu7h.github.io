@@ -58,58 +58,66 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 <div class="caption">
 </div>
 
-### Part
+### Part 3 - ## The Alien Invasion
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/ENG/part3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
 
-### Part
+### Part 4 - Childlovers Everywhere
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/ENG/part4.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
 
-### Part
+### Part 5 - Children, Art & Pizza
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/ENG/part5.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
 
-### Part
+### Part 6 - Major Media Manipulation
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/ENG/part6.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
 
-### Part
+### Part 7 - Witches and Warlocks
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/ENG/part7.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
 
-### Part
+### Part 8 - Beyond Kings & Queens
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/ENG/part8.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
 
-### Part
+### Part 9 - The Dawn of a New World
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/ENG/part9.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+</div>
+<div class="caption">
+</div>
+
+## Part 10 - The Return of the King
+
+ <div class="container-xl">
+    {% include video.liquid path="assets/video/ENG/part10.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
