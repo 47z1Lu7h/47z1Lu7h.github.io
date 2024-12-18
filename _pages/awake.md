@@ -2,7 +2,7 @@
 layout: page
 title: awake
 permalink: /awake/
-description: A growing collection of your cool awake.
+description: A growing collection of videos of topics that make yo think.
 nav: true
 nav_order: 3
 display_categories: [light side, dark side]

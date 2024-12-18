@@ -5,24 +5,9 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Publications
-    permalink: /publications/
-  - title: divider
-  - title: awake
-    permalink: /awake/
-  - title: divider
-  - title: Blog
-    permalink: /blog/
   - title: divider
   - title: News
     permalink: /news/
   - title: divider
-  - title: Peña
-    permalink: /people/
   - title: divider
-  - title: about
-    permalink: /about/
-  - title: divider
-  - title: repos
-    permalink: /repositories/
 ---

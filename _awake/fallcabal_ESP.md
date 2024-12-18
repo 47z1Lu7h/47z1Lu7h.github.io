@@ -18,18 +18,11 @@ toc:
     </div>
 </div>
 
-This documentary video was made by researcher and author Janet Ossebaard from the Netherlands, with the aid of countless 'Anons' across the world:
+Este documental fue hecho por la investigadora y autora Janet Ossebaard, de los Países Bajos, con la ayuda de incontables “anons” de todo el mundo: “Contiene miles de horas de investigación. Los invito a no aceptar nada como verdadero. Por favor, hagan sus propias investigaciones y chequeen todo lo que les presento. Esta es la única manera de despertarse en verdad y convertirse en un pensador independiente”.
 
-It contains thousands of hours of research. I urge you to accept nothing as the truth. Please do your own research and double-check everything I present to you. That is the only way to truly wake up and become an independent thinker
+> “Me he esforzado por respetar todos los copyrights de las imágenes usadas en este documental. Si usted cree que infringí su copyright, por favor contácteme lo más pronto posible para que pueda arreglar el asunto de manera apropiada”.
 
-> The world as we know it is about to end.
-> Is awaiting us is a new era of peace, liberty, equality, and harmony the dawn of the Golden Age as described in each and every source text.
-
-I have grown to fully trust. Dawn, the Master of all Masters, he may seem rude clumsy and silly from time to time, but he has earned my trust in the past two and a half years when I especially followed his every move. He is a genius, a 5D chess player, a man with a huge heart. There will be a relatively short bridge period between the two in which people can adjust to the new paradigm and its energies.
-
-I don't think there will be much chaos. Everything is ready to be implemented, a new banking system without interest, new ways to educate our children, a new medical system without poisonous addictive chemicals, and so on, and so forth.
-
-All we have to do is be patient, watch everything unfold, trust the plan, do whatever we can to help others wake up and remain focused and ready, ready to assist and ready to help create a beautiful new world. Some people will wake up faster than others, remain calm and in service to all."
+“Advertencia: Le pido que mire este documental completo hasta el final. Puede que los primeros episodios les parezcan shockeantes o inclusive imposibles de creer, pero al final, todo encajará. Los dos episodios finales (9 & 10) contienen un giro inesperado, que causará que enfrente los cambios delante nuestro con Esperanza y Fe en su corazón!”
 
 <a href="https://www.fallcabal.com"> fallcabal.com </a>
 <a href="https://t.me/Fall_of_the_Cabal"> Telegram fallcabal</a>
@@ -47,84 +40,11 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 - Part 9 - The Dawn of a New World
 - Part 10 - The Return of the King
 
-## Part 1 - The End of the World as we Know it
+## Documental completo
 
-<div class="vidjet-video-wrapper" style="width:80%; padding-bottom: 45%; position: relative; overflow: hidden; height: auto; margin: 0px auto; " > 
-      {% include video.liquid path="assets/video/ESP/part1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+<div class="container-xl"
+    <iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/$/embed/@Ocinuyos:8/LA-CAÍDA-DEL-CABAL:6?r=kE8vr2PoQ63pA2Z1ok7Xy2fRvMQJHfEX" allowfullscreen></iframe>
 </div>
 <div class="caption">
     This is the caption
-</div>
-
-## Part 2 - Down the Rabbit Hole
-
-<div class="container-xl">
-    {% include video.liquid path="assets/video/ESP/part2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-</div>
-<div class="caption">
-</div>
-
-## Part 3 - The Alien Invasion
-
-<div class="container-xl">
-    {% include video.liquid path="assets/video/ESP/part3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-</div>
-<div class="caption">
-</div>
-
-## Part 4 - Childlovers Everywhere
-
-<div class="container-xl">
-    {% include video.liquid path="assets/video/ESP/part4.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-</div>
-<div class="caption">
-    In union there is strength.
-</div>
-
-## Part 5 - Children, Art & Pizza
-
-<div class="container-xl">
-    {% include video.liquid path="assets/video/ESP/part5.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-</div>
-<div class="caption">
-</div>
-
-## Part 6 - Major Media Manipulation
-
-<div class="container-xl">
-    {% include video.liquid path="assets/video/ESP/part6.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-</div>
-<div class="caption">
-</div>
-
-## Part 7 - Witches and Warlocks
-
-<div class="container-xl">
-    {% include video.liquid path="assets/video/ESP/part7.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-</div>
-<div class="caption">
-</div>
-
-## Part 8 - Beyond Kings & Queens
-
-<div class="container-xl">
-    {% include video.liquid path="assets/video/ESP/part8.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-</div>
-<div class="caption">
-</div>
-
-## Part 9 - The Dawn of a New World
-
-<div class="container-xl">
-    {% include video.liquid path="assets/video/ESP/part9.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-</div>
-<div class="caption">
-</div>
-
-## Part 10 - The Return of the King
-
-<div class="container-xl">
-    {% include video.liquid path="assets/video/ESP/part10.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-</div>
-<div class="caption">
 </div>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: the Fall of Cabal - ENG
 description: Documentary video made by Janet Ossebaard
 img: assets/img/fallCabal/fallCabal-1.png
@@ -33,19 +33,6 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 
 <a href="https://www.fallcabal.com"> fallcabal.com </a>
 <a href="https://t.me/Fall_of_the_Cabal"> Telegram fallcabal</a>
-
-# Glosary
-
-- Part 1 - The End of the World as we Know it
-- Part 2 - Down the Rabbit Hole
-- Part 3 - The Alien Invasion
-- Part 4 - Childlovers Everywhere
-- Part 5 - Children, Art & Pizza
-- Part 6 - Major Media Manipulation
-- Part 7 - Witches and Warlocks
-- Part 8 - Beyond Kings & Queens
-- Part 9 - The Dawn of a New World
-- Part 10 - The Return of the King
 
 ## Part 1 - The End of the World as we Know it
 

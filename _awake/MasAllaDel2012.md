@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: post
 title: Mas allá del 2012
 description: Documental Mas allá del 2012
 img: assets/img/12.jpg
 importance: 1
 category: "light side"
+tags: "light side"
+giscus_comments: true
+related_posts: true
 related_publications: true
 ---
 
