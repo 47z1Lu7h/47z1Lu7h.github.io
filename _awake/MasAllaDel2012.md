@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mas allá del 2012
-description: windows pentesting
+description: Documental Mas allá del 2012
 img: assets/img/12.jpg
 importance: 1
 category: "light side"
