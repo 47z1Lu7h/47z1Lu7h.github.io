@@ -50,9 +50,7 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 ## Part 1 - The End of the World as we Know it
 
 <div class="vidjet-video-wrapper" style="width:80%; padding-bottom: 45%; position: relative; overflow: hidden; height: auto; margin: 0px auto; " > 
-    <iframe class="vidjet-embed-iframe" style=" position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 10px; " allow="clipboard-read; clipboard-write; fullscreen" frameborder="0" >
       {% include video.liquid path="assets/video/ESP/part1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-    </iframe>
 </div>
 <div class="caption">
     This is the caption
