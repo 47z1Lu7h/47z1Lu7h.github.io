@@ -5,7 +5,7 @@ description: Documentary video made by Janet Ossebaard
 img: assets/img/fallCabal/fallCabal-1.png
 importance: 1
 tags: "dark side"
-categories: "dark side"
+category: "dark side"
 giscus_comments: true
 related_posts: true
 toc:
