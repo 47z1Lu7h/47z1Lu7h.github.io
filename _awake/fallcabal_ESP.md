@@ -4,10 +4,8 @@ title: the Fall of Cabal - ESP
 description: Video documental hecho por Janet Ossebaard
 img: assets/img/fallCabal/fallCabal-1.png
 importance: 1
-tags: "dark side"
 category: "dark side"
 giscus_comments: true
-related_posts: true
 toc:
   beginning: true
 ---
@@ -27,6 +25,8 @@ Este documental fue hecho por la investigadora y autora Janet Ossebaard, de los 
 <a href="https://www.fallcabal.com"> fallcabal.com </a>
 <a href="https://t.me/Fall_of_the_Cabal"> Telegram fallcabal</a>
 
+<hr>
+
 # Glosario
 
 - Part 1 - The End of the World as we Know it
@@ -40,12 +40,13 @@ Este documental fue hecho por la investigadora y autora Janet Ossebaard, de los 
 - Part 9 - The Dawn of a New World
 - Part 10 - The Return of the King
 
+<hr>
+
 ## Documental completo
 
 <div class="container-xl">
-    <iframe id="iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/$/embed/@Ocinuyos:8/LA-CAÍDA-DEL-CABAL:6?r=kE8vr2PoQ63pA2Z1ok7Xy2fRvMQJHfEX" allowfullscreen>
-    </iframe> </iframe>
+    <iframe id="iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/$/embed/@Ocinuyos:8/LA-CAÍDA-DEL-CABAL:6?r=kE8vr2PoQ63pA2Z1ok7Xy2fRvMQJHfEX" allowfullscreen></iframe>
 </div>
 <div class="caption">
-    This is the caption
-</div>
+    Things That Make You Go Hmmmm...
+ </div>

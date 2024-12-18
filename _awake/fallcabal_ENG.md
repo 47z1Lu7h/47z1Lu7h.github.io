@@ -4,10 +4,8 @@ title: the Fall of Cabal - ENG
 description: Documentary video made by Janet Ossebaard
 img: assets/img/fallCabal/fallCabal-1.png
 importance: 1
-tags: "dark side"
 category: "dark side"
 giscus_comments: true
-related_posts: true
 toc:
   beginning: true
 ---
@@ -34,82 +32,103 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 <a href="https://www.fallcabal.com"> fallcabal.com </a>
 <a href="https://t.me/Fall_of_the_Cabal"> Telegram fallcabal</a>
 
+<hr>
+
 ## Part 1 - The End of the World as we Know it
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/part1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/fallCabal/ENG/part1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
+    Things That Make You Go Hmmmm...
 </div>
+
+<hr>
 
 ## Part 2 - Down the Rabbit Hole
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/part2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/fallCabal/ENG/part2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
+
+<hr>
 
 ## Part 3 - ## The Alien Invasion
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/part3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/fallCabal/ENG/part3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
+
+<hr>
 
 ## Part 4 - Childlovers Everywhere
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/part4.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/fallCabal/ENG/part4.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
+
+<hr>
 
 ## Part 5 - Children, Art & Pizza
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/part5.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/fallCabal/ENG/part5.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
+
+<hr>
 
 ## Part 6 - Major Media Manipulation
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/part6.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/fallCabal/ENG/part6.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
+
+<hr>
 
 ## Part 7 - Witches and Warlocks
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/part7.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/fallCabal/ENG/part7.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
+
+<hr>
 
 ## Part 8 - Beyond Kings & Queens
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/part8.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/fallCabal/ENG/part8.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
+
+<hr>
 
 ## Part 9 - The Dawn of a New World
 
 <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/part9.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/fallCabal/ENG/part9.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
 
+<hr>
+
 ## Part 10 - The Return of the King
 
  <div class="container-xl">
-    {% include video.liquid path="assets/video/ENG/part10.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    {% include video.liquid path="assets/video/fallCabal/ENG/part10.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
 </div>
