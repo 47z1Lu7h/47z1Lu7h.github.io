@@ -44,7 +44,7 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 - Part 9 - The Dawn of a New World
 - Part 10 - The Return of the King
 
-### Part 1 - The End of the World as we Know it
+## Part 1 - The End of the World as we Know it
 
 <div class="container-xl">
     {% include video.liquid path="assets/video/ENG/part1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
@@ -52,7 +52,7 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 <div class="caption">
 </div>
 
-### Part 2 - Down the Rabbit Hole
+## Part 2 - Down the Rabbit Hole
 
 <div class="container-xl">
     {% include video.liquid path="assets/video/ENG/part2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
@@ -60,7 +60,7 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 <div class="caption">
 </div>
 
-### Part 3 - ## The Alien Invasion
+## Part 3 - ## The Alien Invasion
 
 <div class="container-xl">
     {% include video.liquid path="assets/video/ENG/part3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
@@ -68,7 +68,7 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 <div class="caption">
 </div>
 
-### Part 4 - Childlovers Everywhere
+## Part 4 - Childlovers Everywhere
 
 <div class="container-xl">
     {% include video.liquid path="assets/video/ENG/part4.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
@@ -76,7 +76,7 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 <div class="caption">
 </div>
 
-### Part 5 - Children, Art & Pizza
+## Part 5 - Children, Art & Pizza
 
 <div class="container-xl">
     {% include video.liquid path="assets/video/ENG/part5.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
@@ -84,7 +84,7 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 <div class="caption">
 </div>
 
-### Part 6 - Major Media Manipulation
+## Part 6 - Major Media Manipulation
 
 <div class="container-xl">
     {% include video.liquid path="assets/video/ENG/part6.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
@@ -92,7 +92,7 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 <div class="caption">
 </div>
 
-### Part 7 - Witches and Warlocks
+## Part 7 - Witches and Warlocks
 
 <div class="container-xl">
     {% include video.liquid path="assets/video/ENG/part7.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
@@ -100,7 +100,7 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 <div class="caption">
 </div>
 
-### Part 8 - Beyond Kings & Queens
+## Part 8 - Beyond Kings & Queens
 
 <div class="container-xl">
     {% include video.liquid path="assets/video/ENG/part8.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
@@ -108,7 +108,7 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 <div class="caption">
 </div>
 
-### Part 9 - The Dawn of a New World
+## Part 9 - The Dawn of a New World
 
 <div class="container-xl">
     {% include video.liquid path="assets/video/ENG/part9.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
