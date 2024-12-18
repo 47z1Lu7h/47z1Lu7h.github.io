@@ -1,10 +1,12 @@
 ---
 layout: page
 title: the Fall of Cabal - ESP
-description: Documentary video made by Janet Ossebaard
+description: Video documental hecho por 'Janet Ossebaard'
 img: assets/img/fallCabal/fallCabal-1.png
 importance: 1
 category: "dark side"
+toc:
+  sidebar: left
 ---
 
 <div class="row">
@@ -29,7 +31,7 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 <a href="https://www.fallcabal.com"> fallcabal.com </a>
 <a href="https://t.me/Fall_of_the_Cabal"> Telegram fallcabal</a>
 
-# Glosary
+# Glosario:
 
 - Part 1 - The End of the World as we Know it
 - Part 2 - Down the Rabbit Hole
@@ -44,11 +46,10 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
 
 ### Part 1 - The End of the World as we Know it
 
-<div class="container-xl">
+<div class="container-fluid">
     {% include video.liquid path="assets/video/ESP/part1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
-    In union there is strength.
 </div>
 
 ### Part 2 - Down the Rabbit Hole
@@ -57,7 +58,6 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
     {% include video.liquid path="assets/video/ESP/part2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
-    In union there is strength.
 </div>
 
 ### Part 3 - The Alien Invasion
@@ -66,7 +66,6 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
     {% include video.liquid path="assets/video/ESP/part3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
-    In union there is strength.
 </div>
 
 ### Part 4 - Childlovers Everywhere
@@ -78,31 +77,28 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
     In union there is strength.
 </div>
 
-### - Part 5 - Children, Art & Pizza
+### Part 5 - Children, Art & Pizza
 
 <div class="container-xl">
     {% include video.liquid path="assets/video/ESP/part5.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
-    In union there is strength.
 </div>
 
-### - Part 6 - Major Media Manipulation
+### Part 6 - Major Media Manipulation
 
 <div class="container-xl">
     {% include video.liquid path="assets/video/ESP/part6.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
-    In union there is strength.
 </div>
 
-### - Part 7 - Witches and Warlocks
+### Part 7 - Witches and Warlocks
 
 <div class="container-xl">
     {% include video.liquid path="assets/video/ESP/part7.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
-    In union there is strength.
 </div>
 
 ### Part 8 - Beyond Kings & Queens
@@ -111,7 +107,6 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
     {% include video.liquid path="assets/video/ESP/part8.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
-    In union there is strength.
 </div>
 
 ### Part 9 - The Dawn of a New World
@@ -120,14 +115,16 @@ All we have to do is be patient, watch everything unfold, trust the plan, do wha
     {% include video.liquid path="assets/video/ESP/part9.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
-    In union there is strength.
 </div>
 
+>
+
 ### Part 10 - The Return of the King
+
+>
 
 <div class="container-xl">
     {% include video.liquid path="assets/video/ESP/part10.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 </div>
 <div class="caption">
-    In union there is strength.
 </div>

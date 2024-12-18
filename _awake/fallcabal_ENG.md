@@ -1,10 +1,12 @@
 ---
 layout: page
-title: the Fall of Cabal
-description: Documentary video made by researcher and author Janet Ossebaard
+title: the Fall of Cabal - ENG
+description: Documentary video made by Janet Ossebaard
 img: assets/img/fallCabal/fallCabal-1.png
 importance: 1
 category: "dark side"
+toc:
+  sidebar: left
 ---
 
 <div class="row">
