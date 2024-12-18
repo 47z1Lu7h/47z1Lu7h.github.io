@@ -4,12 +4,11 @@ title: Mas allá del 2012
 description: windows pentesting
 img: assets/img/12.jpg
 importance: 1
-category: linux
+category: "light side"
 related_publications: true
 ---
 
 # Mas allá del 2012
-
 Documental Mas allá del 2012
 
 <div class="container-fluid">
