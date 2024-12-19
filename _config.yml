@@ -200,6 +200,12 @@ collections:
     output: true
     permalink: /:collection/:title/
     lsi: true # produce an index for related posts
+  awake:
+    defaults:
+      layout: blog
+    output: true
+    permalink: /:collection/:title/
+    lsi: true # produce an index for related posts
 
 announcements:
   enabled: true

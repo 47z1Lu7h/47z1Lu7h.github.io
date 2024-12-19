@@ -1,6 +1,6 @@
 ---
 layout: page
-title: awa
+title: awake
 permalink: /awake/
 description: A growing collection of videos of topics that make yo think.
 nav: true
