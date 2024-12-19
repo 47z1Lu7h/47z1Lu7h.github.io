@@ -5,10 +5,12 @@ description: Documentary video made by Janet Ossebaard
 img: assets/img/fallCabal/fallCabal-1.png
 importance: 1
 category: "dark side"
+category: "dark side"
+tag: "dark side"
 giscus_comments: true
-thumbail: assets/img/fallCabal/fallcabaal-logo.png
 toc:
   beginning: true
+thumbail: assets/img/fallCabal/fallCabalLogo.png
 ---
 
 <div class="row">

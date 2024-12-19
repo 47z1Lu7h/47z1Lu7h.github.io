@@ -1,16 +1,16 @@
 ---
-layout:
-permalink:
-title:
+layout: page
+permalink: /profiles/
+title: P5Of
 description: members of the lab or group
 nav: true
 nav_order: 7
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 related_posts: true
-tags:
-categories:
-social: true
+tags: "light sice"
+categories: prof
+social: false
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
