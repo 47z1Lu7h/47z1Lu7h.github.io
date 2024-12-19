@@ -1,5 +1,4 @@
 ---
-
 layout: page
 permalink: /cv/
 title: cv
@@ -8,5 +7,4 @@ nav_order: 5
 description:
 toc:
 sidebar: left
-
 ---
