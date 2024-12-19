@@ -1,12 +1,28 @@
 ---
-layout: page
-#permalink: /cv/
-title: cv
-description:
+layout: profiles
+permalink: /people/
+title: p
+description: members of the lab
 nav: true
 nav_order: 7
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-related_posts: true
-social: false
+
+profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
+  - align: right
+    image: prof_pic.jpg
+    content: 47z1Right.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: left
+    image: assets/img/HTB.png
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
 ---
