@@ -142,7 +142,18 @@ div.running_list_info.toolbar_info {
   border-color: transparent;
 }
 
-#project_name > ul > li > a > i.fa.fa-home {
+#pentest_name > ul > li > a > i.fa.fa-home {
+  color: #ff7823;
+  font-size: 17pt;
+  display: inline-block;
+  position: static;
+  padding: 0px 0px;
+  font-weight: normal;
+  text-align: center;
+  vertical-align: text-top;
+}
+
+#awake_name > ul > li > a > i.fa.fa-home {
   color: #ff7823;
   font-size: 17pt;
   display: inline-block;
@@ -207,7 +218,16 @@ span#sort-name.btn.btn-xs.btn-default.sort-action:hover .fa {
   color: #6a737d !important;
 }
 
-#project_name a {
+#pentest_name a {
+  display: inline-flex;
+  padding-left: 7px;
+  margin-left: -2px;
+  text-align: -webkit-auto;
+  vertical-align: baseline;
+  font-size: 18px;
+}
+
+#awake_name a {
   display: inline-flex;
   padding-left: 7px;
   margin-left: -2px;
@@ -426,7 +446,15 @@ div.list_item:hover {
   font-size: 18px;
 }
 
-#project_name > .breadcrumb {
+#pentest_name > .breadcrumb {
+  padding: 0px;
+  margin-bottom: 0px;
+  background-color: transparent;
+  font-weight: normal;
+  margin-top: -2px;
+}
+
+#awake_name > .breadcrumb {
   padding: 0px;
   margin-bottom: 0px;
   background-color: transparent;

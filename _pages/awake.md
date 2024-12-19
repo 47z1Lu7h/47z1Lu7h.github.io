@@ -11,7 +11,7 @@ horizontal: true
 
 <!-- pages/awake.md -->
 <div class="awake">
-{% if site.enable_project_categories and page.display_categories %}
+{% if site.enable_awake_categories and page.display_categories %}
   <!-- Display categorized awake -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
@@ -19,18 +19,18 @@ horizontal: true
   </a>
   {% assign categorized_awake = site.awake | where: "category", category %}
   {% assign sorted_awake = categorized_awake | sort: "importance" %}
-  <!-- Generate cards for each project -->
+  <!-- Generate cards for each awake -->
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_awake %}
+    {% for awake in sorted_awake %}
       {% include awake_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_awake %}
+    {% for awake in sorted_awake %}
       {% include awake.liquid %}
     {% endfor %}
   </div>
@@ -43,20 +43,20 @@ horizontal: true
 
 {% assign sorted_awake = site.awake | sort: "importance" %}
 
-  <!-- Generate cards for each project -->
+  <!-- Generate cards for each awake -->
 
 {% if page.horizontal %}
 
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_awake %}
+    {% for awake in sorted_awake %}
       {% include awake_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_awake %}
+    {% for awake in sorted_awake %}
       {% include awake.liquid %}
     {% endfor %}
   </div>
