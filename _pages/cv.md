@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /awake/
 title: awake
 nav: true
