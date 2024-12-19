@@ -12,11 +12,11 @@ children:
   - title: divider
   - title: divider
   - title: Publi
-    permalink: /pub/
+    permalink: /publications/
   - title: divider
   - title: divider
   - title: Profiles
-    permalink: /prof/
+    permalink: /profiles/
   - title: divider
   - title: divider
 ---
