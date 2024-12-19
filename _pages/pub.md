@@ -1,8 +1,10 @@
 ---
-layout:
+layout: page
 permalink:
 title:
-description:
+description: publications by categories.
+nav: true
+nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
