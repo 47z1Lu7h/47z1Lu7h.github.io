@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: awake
 permalink: /awake/
 description: A growing collection of videos of topics that make yo think.
