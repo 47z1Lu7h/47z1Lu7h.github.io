@@ -1,10 +1,8 @@
 ---
-layout: page
-permalink: /publications/
-title: publi
-description: publications by categories.
-nav: true
-nav_order: 2
+layout:
+permalink:
+title:
+description:
 ---
 
 <!-- _pages/publications.md -->

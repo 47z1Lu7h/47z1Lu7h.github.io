@@ -11,6 +11,7 @@ profile:
     <p>I am the Now. I Am</p>
 nav: true
 nav_order: 6
+social: true
 ---
 
 ### About y:)
