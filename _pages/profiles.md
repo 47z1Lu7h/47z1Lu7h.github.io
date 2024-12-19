@@ -1,5 +1,4 @@
 ---
-
 layout: page
 permalink: /cv/
 title: cv
@@ -10,3 +9,4 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 related_posts: true
 social: false
+---
