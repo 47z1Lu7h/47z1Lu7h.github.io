@@ -6,6 +6,7 @@ img: assets/img/fallCabal/fallCabal-1.png
 importance: 1
 category: "dark side"
 giscus_comments: true
+thumbail: assets/img/fallCabal/fallcabaal-logo.png
 toc:
   beginning: true
 ---
